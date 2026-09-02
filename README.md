@@ -9,15 +9,40 @@ I build scalable, modern web applications, architect robust backend systems, and
 
 ### 🏆 Experience & Key Projects
 
-* 🤖 **Autonomous AI & Full-Stack Engineer — SafeAI Forum Platform**  
-  * Architected and integrated a full-featured community forum into the SAFEAI613 platform[cite: 1].
-  * Developed context-aware autonomous AI agents using **TypeScript**, **Python**, and **LangGraph** for automated engagement and real-time log monitoring[cite: 1].
-  * Implemented semantic search with vector embeddings, AWS S3 secure cloud storage, and microservices containerized with **Docker**[cite: 1].
-* 🌐 **Open Source Contributor — Spectre.Console**  
-  * Added core methods and optimizations to the popular C# console library (`spectreconsole/spectre.console`).
-* ⚡ **Workflow & Automation Developer**  
-  * Designed automated pipelines connecting APIs, Baserow, and Airtable using **N8N** for rapid internal data management[cite: 1].
+---
 
+#### 🤖 Full-Stack & Autonomous AI Developer — SAFEAI Forum Platform *(Practicum Project)*
+*`TypeScript` • `Python` • `LangGraph` • `AWS (S3)` • `Docker` • `Vector Embeddings`*
+
+* **Core Architecture & Feature Development:** Single-handedly designed, architected, and integrated a high-performance, fully responsive community forum into the SAFEAI613 platform[cite: 1]. Developed dynamic features including advanced post generation, interactive comment trees, post ratings, and administrative moderation tools, ensuring an intuitive, modern UX.
+* **Autonomous AI Agents:**
+  * **User Engagement Agent (TypeScript):** Built an automated bot that monitors real-time platform activity to generate targeted, context-aware daily posts during low-activity windows, driving continuous user engagement.
+  * **System Monitoring Agent (LangGraph & Python):** Architected an autonomous agent to analyze and process system logs, automatically summarizing maintenance issues and proactively recommending performance optimizations.
+* **Intelligent Writing Assistant:** Developed an interactive, in-forum assistant leveraging LLM APIs to provide real-time, context-based suggestions for post titles, automated tagging, and advanced content refinement.
+* **Semantic Search & Recommendation Engine:** Implemented vector embeddings to power a high-accuracy semantic search engine and an intelligent recommendation system that dynamically surfaces related posts.
+* **Token & Cost Optimization:** Applied strict token-management and context-window optimization strategies to minimize LLM API consumption costs, manage rate limits, and maintain low-latency responses.
+* **AI-Assisted Engineering:** Utilized modern AI copilots and developer tools (Claude Code, Gemini, Amazon Q) to accelerate development velocity, conduct code refactoring, and uphold high software quality standards.
+* **Secure Cloud Storage & Media Handling:** Engineered a secure, high-throughput media upload pipeline via AWS S3, implementing thorough client- and server-side validation to support seamless attachments of images and documents.
+* **Forum-Specific & Full-Site SEO:** Architected a comprehensive SEO infrastructure utilizing dynamic meta tags and advanced asset-caching techniques, significantly accelerating page rendering and search indexing.
+* **Containerization & DevOps:** Dockerized the application and microservices to ensure complete environment consistency, conducted comprehensive unit testing, and streamlined deployment pipelines to achieve measurable performance gains.
+* **Asynchronous Architecture:** Implemented robust Async/Await patterns to handle non-blocking I/O operations, optimizing backend throughput and ensuring smooth integration with external cloud services and LLM endpoints.
+* **Version Control & Agile Workflow:** Managed repositories under Git Flow standards, conducted structured code reviews via Pull Requests (PRs), resolved complex merge conflicts, and tracked sprints and backlog tasks via Jira in an Agile/Scrum setting.
+
+---
+
+#### 🌐 Open Source Contributor — Spectre.Console
+*`C#` • `.NET` • `Open Source` • `Git Flow`*
+
+* **Library Enhancement:** Actively contributed to the popular C# console UI framework (`spectreconsole/spectre.console`).
+* **Feature Implementation:** Engineered and added core methods (such as `IncrementMaxValue` on progress tracking components) and optimizations, submitting reviewed and tested Pull Requests adhering to strict upstream code standards.
+
+---
+
+#### ⚡ Workflow Automation & Integration Developer
+*`N8N` • `Airtable` • `Baserow` • `API Integration`*
+
+* **Automated Data Pipelines:** Designed and deployed end-to-end automated workflows using N8N to connect heterogeneous cloud services, internal applications, and external APIs for rapid data synchronization.
+* **Agile Data Management:** Leveraged Baserow and Airtable as agile, cloud-based data layers to store, sync, and query structured data supporting automated agents and backend services.
 ---
 
 ### 💻 Tech Stack:
