@@ -3,7 +3,7 @@
 Hi — I'm **Margalit Hazani** 👋  
 Practical Software Engineering graduate specializing in **Full-Stack Development**, **Cloud Integration**, and **Autonomous AI Agents**.
 
-I build scalable, modern web applications, architect robust backend systems, and automate workflows using AI agents and cloud infrastructure[cite: 1]. I enjoy solving complex problems, writing clean code, and contributing to open-source software[cite: 1].
+I build scalable, modern web applications, architect robust backend systems, and automate workflows using AI agents and cloud infrastructure. I enjoy solving complex problems, writing clean code, and contributing to open-source software.
 
 ---
 
