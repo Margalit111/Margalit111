@@ -107,11 +107,9 @@ I build scalable, modern web applications, architect robust backend systems, and
 ![Async Programming](https://img.shields.io/badge/Async_Programming_(Async%2FAwait)-2563EB?style=for-the-badge)
 ![Software Architecture](https://img.shields.io/badge/Software_Architecture-1F2937?style=for-the-badge)
 
-#### 🔹 Mathematics & Theory
-![Mathematics 5 Units](https://img.shields.io/badge/Mathematics_5_Units-10B981?style=for-the-badge)
-![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-6366F1?style=for-the-badge)
-![Boolean Algebra](https://img.shields.io/badge/Boolean_Algebra-8B5CF6?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-EC4899?style=for-the-badge)
+### 🔹 Mathematics & Theory
+
+` Mathematics 5 Units ` ` Linear Algebra ` ` Boolean Algebra ` ` Statistics `
 ---
 
 ### 🌐 Contact:
