@@ -1,9 +1,9 @@
 # 💫 About Me:
 
 Hi — I'm **Margalit Hazani** 👋  
-Practical Software Engineering graduate specializing in **Full-Stack Development**, **Cloud Integration**, and **Autonomous AI Agents**[cite: 3].
+Practical Software Engineering graduate specializing in **Full-Stack Development**, **Cloud Integration**, and **Autonomous AI Agents**.
 
-I build scalable, modern web applications, architect robust backend systems, and automate workflows using AI agents and cloud infrastructure[cite: 3]. I combine strong architectural thinking with end-to-end system design capabilities, enjoy solving complex problems, writing clean code, and contributing to open-source software[cite: 3].
+I build scalable, modern web applications, architect robust backend systems, and automate workflows using AI agents and cloud infrastructure. I combine strong architectural thinking with end-to-end system design capabilities, enjoy solving complex problems, writing clean code, and contributing to open-source software.
 
 ---
 
@@ -12,23 +12,23 @@ I build scalable, modern web applications, architect robust backend systems, and
 ---
 
 #### 🤖 Full-Stack & Autonomous AI Developer — SAFEAI Forum Platform *(Practicum Project)*
-*`React (Vite)` • `TypeScript` • `Python` • `LangGraph` • `MongoDB` • `AWS (S3)` • `Docker` • `CI/CD`*[cite: 3]
+*`React (Vite)` • `TypeScript` • `Python` • `LangGraph` • `MongoDB` • `AWS (S3)` • `Docker` • `CI/CD`*
 
-* **Core Architecture & Feature Development:** Single-handedly designed, built, and integrated a high-performance, responsive and adaptive community forum built with React (Vite) & TypeScript into the SAFEAI613 platform[cite: 3]. Developed dynamic features including advanced post generation, interactive comment trees, ratings, and administrative moderation tools, ensuring an intuitive UX[cite: 3].
+* **Core Architecture & Feature Development:** Single-handedly designed, built, and integrated a high-performance, responsive and adaptive community forum built with React (Vite) & TypeScript into the SAFEAI613 platform. Developed dynamic features including advanced post generation, interactive comment trees, ratings, and administrative moderation tools, ensuring an intuitive UX.
 * **Autonomous AI Agents:**
-  * **Version Release Agent (LangGraph & MongoDB):** Built an autonomous deployment & verification agent featuring prompt injection guardrails, automated typechecking, dynamic test execution, and parallel multi-model consensus for release readiness[cite: 3]. Integrated Human-in-the-Loop (HITL) graph interruption for operator approvals and automated standalone HTML release report generation with full execution tracing in MongoDB[cite: 3].
-  * **User Engagement Agent (React & TypeScript):** Developed an automated bot that monitors real-time platform activity to generate targeted, context-aware daily posts during low-activity windows, driving continuous user engagement[cite: 3].
-  * **System Monitoring Agent (LangGraph & Python):** Architected an autonomous agent to analyze and process system logs, automatically summarizing maintenance issues and proactively recommending performance optimizations[cite: 3].
-* **Intelligent Writing Assistant:** Developed an interactive in-forum AI assistant leveraging LLM APIs to provide real-time, context-based suggestions for post titles, automated tagging, and advanced content refinement[cite: 3].
-* **Semantic Search & Recommendation Engine:** Implemented vector embeddings to power a high-accuracy semantic search engine and an intelligent recommendation system that dynamically surfaces related posts[cite: 3].
-* **Token & Cost Optimization:** Applied strict token-management and context-window optimization strategies to minimize LLM API consumption costs, manage rate limits, and maintain low-latency responses[cite: 3].
-* **AI-Assisted Development & Best Practices:** Expertly utilized advanced AI copilots (Claude Code, Gemini, Amazon Q) to accelerate development velocity, perform refactoring, and ensure robust code quality[cite: 3].
-* **Secure Cloud Storage & Media Handling:** Engineered a secure, fast-loading media upload pipeline via AWS S3 with comprehensive client- and server-side file validation, supporting seamless attachments of images and documents[cite: 3].
-* **Forum-Specific & Full-Site SEO:** Architected a robust SEO framework for both the platform and forum, utilizing dynamic meta tags and asset-caching techniques that dramatically accelerated page rendering and indexing[cite: 3].
-* **CI/CD, Containerization & DevOps:** Dockerized the entire application and microservices to guarantee environment consistency, conducted comprehensive unit testing, streamlined CI/CD deployment pipelines, and achieved significant web performance speedups[cite: 3].
-* **Version Control & Collaboration:** Managed repositories adhering to Git Flow best practices, conducted structured code reviews via Pull Requests (PRs), resolved complex merge conflicts, and maintained clean commit histories[cite: 3].
-* **Agile & Teamwork:** Managed tasks and project backlogs using Jira within an Agile/Scrum workflow, participating in daily standups and sprint planning to ensure structured, iterative development[cite: 3].
-* **Asynchronous Architecture:** Leveraged robust Async/Await patterns to handle non-blocking I/O operations, optimizing backend throughput and ensuring smooth integration with external LLM endpoints and cloud services[cite: 3].
+  * **Version Release Agent (LangGraph & MongoDB):** Built an autonomous deployment & verification agent featuring prompt injection guardrails, automated typechecking, dynamic test execution, and parallel multi-model consensus for release readiness. Integrated Human-in-the-Loop (HITL) graph interruption for operator approvals and automated standalone HTML release report generation with full execution tracing in MongoDB.
+  * **User Engagement Agent (React & TypeScript):** Developed an automated bot that monitors real-time platform activity to generate targeted, context-aware daily posts during low-activity windows, driving continuous user engagement.
+  * **System Monitoring Agent (LangGraph & Python):** Architected an autonomous agent to analyze and process system logs, automatically summarizing maintenance issues and proactively recommending performance optimizations.
+* **Intelligent Writing Assistant:** Developed an interactive in-forum AI assistant leveraging LLM APIs to provide real-time, context-based suggestions for post titles, automated tagging, and advanced content refinement.
+* **Semantic Search & Recommendation Engine:** Implemented vector embeddings to power a high-accuracy semantic search engine and an intelligent recommendation system that dynamically surfaces related posts.
+* **Token & Cost Optimization:** Applied strict token-management and context-window optimization strategies to minimize LLM API consumption costs, manage rate limits, and maintain low-latency responses.
+* **AI-Assisted Development & Best Practices:** Expertly utilized advanced AI copilots (Claude Code, Gemini, Amazon Q) to accelerate development velocity, perform refactoring, and ensure robust code quality.
+* **Secure Cloud Storage & Media Handling:** Engineered a secure, fast-loading media upload pipeline via AWS S3 with comprehensive client- and server-side file validation, supporting seamless attachments of images and documents.
+* **Forum-Specific & Full-Site SEO:** Architected a robust SEO framework for both the platform and forum, utilizing dynamic meta tags and asset-caching techniques that dramatically accelerated page rendering and indexing.
+* **CI/CD, Containerization & DevOps:** Dockerized the entire application and microservices to guarantee environment consistency, conducted comprehensive unit testing, streamlined CI/CD deployment pipelines, and achieved significant web performance speedups.
+* **Version Control & Collaboration:** Managed repositories adhering to Git Flow best practices, conducted structured code reviews via Pull Requests (PRs), resolved complex merge conflicts, and maintained clean commit histories.
+* **Agile & Teamwork:** Managed tasks and project backlogs using Jira within an Agile/Scrum workflow, participating in daily standups and sprint planning to ensure structured, iterative development.
+* **Asynchronous Architecture:** Leveraged robust Async/Await patterns to handle non-blocking I/O operations, optimizing backend throughput and ensuring smooth integration with external LLM endpoints and cloud services.
 
 ---
 
@@ -41,10 +41,10 @@ I build scalable, modern web applications, architect robust backend systems, and
 ---
 
 #### ⚡ Workflow Automation & Integration Developer (Independent)
-*`N8N` • `Airtable` • `Baserow` • `API Integration`*[cite: 3]
+*`N8N` • `Airtable` • `Baserow` • `API Integration`*
 
-* **Automated Data Pipelines:** Designed and deployed end-to-end automated workflows using N8N to connect heterogeneous cloud services, internal applications, and external APIs for rapid data transfer[cite: 3].
-* **Agile Data Management:** Leveraged Baserow and Airtable as agile, cloud-based data layers to efficiently store, sync, and query structured data supporting automated agents and backend services[cite: 3].
+* **Automated Data Pipelines:** Designed and deployed end-to-end automated workflows using N8N to connect heterogeneous cloud services, internal applications, and external APIs for rapid data transfer.
+* **Agile Data Management:** Leveraged Baserow and Airtable as agile, cloud-based data layers to efficiently store, sync, and query structured data supporting automated agents and backend services.
 
 ---
 
@@ -139,11 +139,11 @@ I build scalable, modern web applications, architect robust backend systems, and
 ![Software Architecture](https://img.shields.io/badge/Software_Architecture-1F2937?style=for-the-badge)
 
 ### 🔹 Mathematics & Theory
-` Mathematics 5 Units ` ` Linear Algebra ` ` Boolean Algebra ` ` Statistics `[cite: 3]
+` Mathematics 5 Units ` ` Linear Algebra ` ` Boolean Algebra ` ` Statistics `
 
 ---
 
 ### 🌐 Contact:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm0527165565@gmail.com)[cite: 3]
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Margalit111)[cite: 3]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mm0527165565@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Margalit111)
